@@ -1,0 +1,68 @@
+
+header {
+  color: white;
+  text-align: center;
+  font-family: futura;
+  font-size: 65px;
+  background-color: rgb(175, 43, 43);
+
+}
+
+h2 {
+  width: 20%;
+  color: white;
+  text-align: center;
+  font-family: futura;
+  font-size: 65px;
+  background-color: rgb(175, 43, 43);
+
+}
+
+a{
+  color: white;
+}
+
+body {
+  background-color: white;
+
+}
+
+li {
+  text-align: left;
+  font-family: futura;
+
+}
+
+img {
+  margin: auto;
+  height: 500px;
+  width: 30%;
+  float: left;
+
+}
+
+.column {
+  float: left;
+  width: 50.00%;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+
+}
+
+h6 {
+  text-align: center;
+}
+
+p{
+  text-align: left;
+font-family: futura;
+}
+
+h3{
+  text-align: left;
+font-family: futura;
+}
